@@ -1,8 +1,7 @@
 # data_science_stepic
 https://stepik.org/course/4852
 
-
-How to create virtual env: 
+How to create virtual env:
 
 	virtualenv -p /usr/bin/python3 venv/
 	
